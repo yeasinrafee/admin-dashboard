@@ -20,6 +20,6 @@ Icons:
 <i class="fa-regular fa-bell-on"></i>
 
 <i class="fa-regular fa-star"></i>
-<i class="fa-light fa-arrows-to-eye"></i>
-<i class="fa-regular fa-share-nodes"></i>
+<i class="fa-regular fa-eye"></i>
+<i class="fa-solid fa-share-from-square"></i>
 -->
