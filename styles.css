@@ -43,6 +43,39 @@ input {
   padding: 30px 40px 30px 20px;
   display: grid;
   grid-template-columns: 1fr;
+  grid-template-rows: 1fr 5fr 6fr;
+  color: #fff;
+  align-items: start;
+}
+.logo {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr 2fr;
+  justify-content: start;
+  cursor: pointer;
+}
+.logo i {
+  font-size: 2.8rem;
+  text-align: center;
+}
+.logo span {
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+.menu-inside,
+.sub-menu-inside {
+  margin: 40px 0 0 35px;
+}
+.menu-inside i,
+.sub-menu-inside i {
+  font-size: 1.2rem;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.menu-inside span,
+.sub-menu-inside span {
+  font-size: 1.2rem;
+  cursor: pointer;
 }
 
 /* Header Style  */
