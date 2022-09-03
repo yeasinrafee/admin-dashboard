@@ -1,11 +1,11 @@
 # admin-dashboard
 
-#Step 2: Layout
+#Step 1: Layout
 
 1. Start by writing out the HTML elements for the sidebar, header and main-content containers.
 2. In your CSS file, apply Grid properties until you have this basic layout built.
 
-#Step 3: Nesting
+#Step 2: Nesting
 
 1. Taking it one section at a time, begin nesting child elements under the parent elements in the HTML.
 2. Remember that you can keep making grid containers within grid containers.
